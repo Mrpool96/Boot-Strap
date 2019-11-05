@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.carousel-inner > .item > img {
+    width:90px;
+    height:90px;
+  }
+  .carousel-caption{
+      font-style: italic;
+      
+  }
+  h1,p{
+      color: black;
+  }
+  h2,p1{
+      color: blanchedalmond;
+  }
